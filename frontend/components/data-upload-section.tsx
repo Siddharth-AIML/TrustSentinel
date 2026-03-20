@@ -97,7 +97,7 @@ export function DataUploadSection({ expanded = false, onAnalysisComplete }: Data
 
     try {
 
-      const res = await fetch("http://localhost:8000/analyze", {
+      const res = await fetch("https://trustsentinel.onrender.com/analyze", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
