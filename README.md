@@ -70,7 +70,7 @@ Built for hackathons and real-world applications, it provides an **interactive d
 ## 📊 Input Dataset Format
 
 ### 🔹 transactions.csv
-### 🔹 Customers.csv
+### 🔹 customers.csv
 ### 🔹 accounts.csv
 
 ```csv
